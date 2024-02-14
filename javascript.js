@@ -3,7 +3,6 @@ let playerSelection;
 let computerSelection;
 let playerScore = 0;
 let computerScore = 0;
-let winner;
 
 // Get Computer's choice
 function getComputerChoice() {
